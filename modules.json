@@ -1,6 +1,5 @@
 [
   {
-    "id": "KPatch-Next",
     "name": "KPatch Next",
     "description": "Standalone implementation of KPM support for Magisk/KernelSU",
     "author": "rifsxd, KOWX712",
@@ -8,7 +7,6 @@
     "license": "GPL-3.0"
   },
   {
-    "id": "ksu_toolkit",
     "name": "KernelSU Toolkit",
     "description": "Small extensions on top of KernelSU v3. Mostly for debugging purposes",
     "author": "xx, KOWX712",
@@ -16,7 +14,6 @@
     "license": "Unlicense"
   },
   {
-    "id": "bindhosts",
     "name": "Bindhosts",
     "description": "Systemless hosts for APatch, KernelSU and Magisk",
     "author": "xx, KOWX712",
@@ -24,7 +21,6 @@
     "license": "WTFPL"
   },
   {
-    "id": "tricky_store",
     "name": "TEESimulator",
     "description": "Software simulation for Android hardware-backed key pairs with key attestation",
     "author": "JingMatrix",
@@ -32,7 +28,6 @@
     "license": "GPL-3.0"
   },
   {
-    "id": "rezygisk",
     "name": "ReZygisk",
     "description": "Standalone implementation of Zygisk",
     "author": "The PerformanC Organization",
@@ -41,7 +36,6 @@
     "visibility": 0
   },
   {
-    "id": "COPG",
     "name": "✨ COPG Spoof ✨",
     "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
     "author": "Alireza Parsi",
@@ -49,7 +43,6 @@
     "license": "Apache-2.0"
   },
   {
-    "id": "playintegrityfix",
     "name": "Play Integrity Fix [INJECT]",
     "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
     "author": "chiteroman, KOWX712",
@@ -57,7 +50,6 @@
     "license": "GPL-3.0"
   },
   {
-    "id": "deviceidchanger",
     "name": "DeviceID/SSAID Changer",
     "description": "A simple WebUI Module to change SSAID/DeviceID on Rooted Android Devices with Apatch, KSU (And its forks), or Magisk.",
     "author": "sidex15",
@@ -66,7 +58,6 @@
 
   },
   {
-    "id": "susfs4ksu",
     "name": "SUSFS-FOR-KERNELSU",
     "description": "An addon root hiding service for KernelSU compiled with patched kernel source",
     "author": "sidex15 & simonpunk",
@@ -74,7 +65,6 @@
     "license": "AGPL-3.0"
   },
   {
-    "id": "brene",
     "name": "BRENE - SUSFS-FOR-KERNELSU",
     "description": "A SuSFS/KernelSU module for SuSFS patched kernels",
     "author": "rrr333nnn333, KOWX712, sidex15 & simonpunk",
@@ -82,7 +72,6 @@
     "license": "AGPL-3.0"
   },
   {
-    "id": "Yurikey",
     "name": "Yuri Keybox Manager",
     "description": "A systemless module to get strong integrity so easily",
     "author": "Yuri, Tam and Yurikey Developers",
@@ -90,7 +79,6 @@
     "license": "GPL-3.0"
   },
   {
-    "id": "zygisk_lsposed",
     "name": "LSPosed",
     "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16",
     "author": "JingMatrix and LSPosed Developers",
@@ -98,7 +86,6 @@
     "license": "GPL-3.0"
   },
   {
-    "id": "zygisksu",
     "name": "NeoZygisk",
     "description": "Zygote injection with ptrace",
     "author": "JingMatrix",
