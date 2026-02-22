@@ -91,5 +91,12 @@
     "author": "JingMatrix",
     "repoUrl": "https://github.com/JingMatrix/NeoZygisk/",
     "license": "GPL-3.0"
+  },
+  {
+    "name": "Tricky Addon",
+    "description": "A WebUI to configure Tricky Store/TEESimulator target.txt",
+    "author": "KOWX712",
+    "repoUrl": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
+    "license": "GPL-3.0"
   }
 ]
