@@ -1,6 +1,6 @@
 [
   {
-    "id": "meta-hybrid",
+    "id": "hybrid_mount",
     "name": "Hybrid Mount",
     "description": "Next Generation Mounting Metamodule with OverlayFS and Magic Mount",
     "author": "Hybrid Mount Developers",
