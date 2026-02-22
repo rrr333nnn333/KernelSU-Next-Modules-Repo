@@ -1,0 +1,16 @@
+[
+  {
+    "author": "5ec1cff, Nullptr",
+    "license": "Closed-Source",
+    "name": "Zygisk Next",
+    "repoUrl": "https://github.com/Dr-TSNG/ZygiskNext",
+    "description": "Standalone implementation of Zygisk"
+  },
+  {
+    "author": "5ec1cff, aviraxp and Cyberenchanter",
+    "license": "Closed-Source",
+    "name": "Tricky Store",
+    "repoUrl": "https://github.com/5ec1cff/TrickyStore",
+    "description": "A trick of keystore"
+  }
+]
