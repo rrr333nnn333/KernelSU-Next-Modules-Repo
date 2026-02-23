@@ -109,5 +109,13 @@
     "repoUrl": "https://github.com/Rem01Gaming/encore",
     "license": "Apache-2.0",
     "bannerUrl": "https://encore.rem01gaming.dev/ogp/default.webp"
+  },
+  {
+    "name": "Re-Malwack | Not just a normal ad-blocker module ✨",
+    "description": "A fully-fledged ad-block module. Contains all your needs ✨",
+    "author": "ZG089",
+    "repoUrl": "https://github.com/ZG089/Re-Malwack/",
+    "license": "GPL-3.0",
+    "bannerUrl": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/module/banner.png"
   }
 ]
