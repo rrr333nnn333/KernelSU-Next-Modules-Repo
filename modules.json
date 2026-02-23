@@ -107,6 +107,7 @@
     "description": "Special performance module for your device",
     "author": "Rem01Gaming",
     "repoUrl": "https://github.com/Rem01Gaming/encore",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "bannerUrl": "https://encore.rem01gaming.dev/ogp/default.webp"
   }
 ]
