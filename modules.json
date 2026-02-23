@@ -4,7 +4,8 @@
     "description": "Standalone implementation of KPM support for Magisk/KernelSU",
     "author": "rifsxd, KOWX712",
     "repoUrl": "https://github.com/KernelSU-Next/KPatch-Next-Module",
-    "license": "GPL-3.0"
+    "license": "GPL-3.0",
+    "bannerUrl": "https://raw.githubusercontent.com/KernelSU-Next/KPatch-Next-Module/main/module/banner.png"
   },
   {
     "name": "KernelSU Toolkit",
