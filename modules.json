@@ -41,7 +41,8 @@
     "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
     "author": "Alireza Parsi",
     "repoUrl": "https://github.com/AlirezaParsi/COPG",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "bannerUrl": "https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/banner.png"
   },
   {
     "name": "Play Integrity Fix [INJECT]",
@@ -63,7 +64,8 @@
     "description": "An addon root hiding service for KernelSU compiled with patched kernel source",
     "author": "sidex15 & simonpunk",
     "repoUrl": "https://github.com/sidex15/susfs4ksu-module",
-    "license": "AGPL-3.0"
+    "license": "AGPL-3.0",
+    "bannerUrl": "https://raw.githubusercontent.com/sidex15/susfs4ksu-module/v1.5.2%2B/banner.png"
   },
   {
     "name": "BRENE - SUSFS-FOR-KERNELSU",
