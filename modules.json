@@ -83,10 +83,10 @@
     "bannerUrl": "https://raw.githubusercontent.com/Yurii0307/yurikey/main/doc/banner.webp"
   },
   {
-    "name": "LSPosed",
+    "name": "Vector (LSP)",
     "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16",
     "author": "JingMatrix and LSPosed Developers",
-    "repoUrl": "https://github.com/JingMatrix/LSPosed",
+    "repoUrl": "https://github.com/JingMatrix/Vector",
     "license": "GPL-3.0"
   },
   {
