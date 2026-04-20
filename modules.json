@@ -75,6 +75,13 @@
     "license": "AGPL-3.0"
   },
   {
+    "name": "BreZygisk",
+    "description": "A ReZygisk Fork - Transparent implementation of Zygisk.",
+    "author": "rrr333nnn333 & The PerformanC Organization",
+    "repoUrl": "https://github.com/rrr333nnn333/BreZygisk",
+    "license": "AGPL-3.0"
+  },
+  {
     "name": "Yuri Keybox Manager",
     "description": "A systemless module to get strong integrity so easily",
     "author": "Yuri, Tam and Yurikey Developers",
